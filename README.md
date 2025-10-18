@@ -35,7 +35,7 @@ I'm a **Business Analytics Graduate Student** passionate about **Data Analytics*
 
 ## 📫 Let's Connect
 
-- 🌐 LinkedIn :https://www.linkedin.com/in/nitish-mandal/  
+- 🌐 LinkedIn :https://www.linkedin.com/in/nitishmandal/  
 - 📧 Email: nitish8735822838@gmail.com  
 
 ---
