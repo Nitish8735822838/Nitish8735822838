@@ -40,4 +40,4 @@ I'm a **Business Analytics Graduate Student** passionate about **Data Analytics*
 
 ---
 
-⭐ **Fun Fact:** Every project I upload here is part of my journey to become a better Data Analyst — one dashboard at a time!
+⭐ **Fun Fact:** Every project I upload here is part of my journey to become a better Business Analyst one dashboard at a time!
